@@ -13,6 +13,11 @@
 		{ "id": "8", "name": "Luna", "breed": "Wolf" },
 		{ "id": "9", "name": "Buddy", "breed": "Border Collie" },
 		{ "id": "10", "name": "Bailey", "breed": "Golden Retriever" },
-		{ "id": "11", "name": "Sadie", "breed": "Belgian Malinois" }
+		{ "id": "11", "name": "Sadie", "breed": "Belgian Malinois" },
+		{ "id": "12", "name": "Molly", "breed": "Beagle" },
+		{ "id": "13", "name": "Howard", "breed": "Boxer" },
+		{ "id": "14", "name": "Paula", "breed": "Shih Tzu" },
+		{ "id": "15", "name": "Bear", "breed": "Rottweiler" },
+		{ "id": "16", "name": "Maggie", "breed": "Doberman" }
 	]
 }
