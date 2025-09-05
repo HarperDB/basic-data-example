@@ -1,0 +1,4 @@
+graphqlSchema:
+  files: 'schema.graphql'
+dataLoader:
+  files: 'dogs.json'

@@ -1,0 +1,7 @@
+{
+	"name": "basic-data-example",
+	"version": "0.1.0",
+	"description": "A basic example of using the Harper dataLoader plugin",
+	"private": true,
+	"license": "Apache-2.0"
+}
